@@ -1,1 +1,2 @@
 # QuickTranslator
+#ngoctay #thanhhvG
