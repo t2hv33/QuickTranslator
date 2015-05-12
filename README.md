@@ -1,2 +1,4 @@
 # QuickTranslator
-#ngoctay #thanhhvG
+ngoctay
+thanhhvG
+http://www.tangthuvien.vn/forum/
